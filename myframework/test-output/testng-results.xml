@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33612" started-at="2015-11-16T18:20:43Z" finished-at="2015-11-16T18:21:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33612" started-at="2015-11-16T18:20:43Z" finished-at="2015-11-16T18:21:17Z">
+      <class name="scripts.signin.SearchProduct">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext)[pri:0, instance:scripts.signin.SearchProduct@1092e60]" name="beforeSuite" is-config="true" duration-ms="12" started-at="2015-11-16T18:20:43Z" finished-at="2015-11-16T18:20:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@bb6f5f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:scripts.signin.SearchProduct@1092e60]" name="beforeTest" is-config="true" duration-ms="3329" started-at="2015-11-16T18:20:43Z" finished-at="2015-11-16T18:20:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="searchValidProduct()[pri:0, instance:scripts.signin.SearchProduct@1092e60]" name="searchValidProduct" duration-ms="30264" started-at="2015-11-16T18:20:46Z" finished-at="2015-11-16T18:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchValidProduct -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:scripts.signin.SearchProduct@1092e60]" name="afterTest" is-config="true" duration-ms="1" started-at="2015-11-16T18:21:17Z" finished-at="2015-11-16T18:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:scripts.signin.SearchProduct@1092e60]" name="afterSuite" is-config="true" duration-ms="0" started-at="2015-11-16T18:21:17Z" finished-at="2015-11-16T18:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- scripts.signin.SearchProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

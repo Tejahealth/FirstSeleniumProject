@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58" started-at="2015-07-25T20:18:52Z" finished-at="2015-07-25T20:18:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58" started-at="2015-07-25T20:18:52Z" finished-at="2015-07-25T20:18:52Z">
+      <class name="com.selenium.com.githubdemo.CheckerInGit">
+        <test-method status="PASS" signature="check()[pri:0, instance:com.selenium.com.githubdemo.CheckerInGit@13b2fdc]" name="check" duration-ms="18" started-at="2015-07-25T21:18:52Z" finished-at="2015-07-25T21:18:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- com.selenium.com.githubdemo.CheckerInGit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
